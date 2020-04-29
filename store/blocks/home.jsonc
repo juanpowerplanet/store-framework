@@ -4,7 +4,7 @@
       "rich-text",
       "info-card#button-right",
       "info-card#button-left",
-      "flex-layout.row#fila"
+      "flex-layout.row"
     ]
   },
   "rich-text": {
@@ -43,10 +43,10 @@
         "blockClass": "metal" 
       }
     },
-    "flex-layout.row#fila":{
+    "flex-layout.row":{
       "children": [
         "info-card#rethink",
-        "flex-layout.col#columna"
+        "flex-layout.col"
       ]
     },
     
@@ -60,7 +60,7 @@
       }
     },
     
-    "flex-layout.col#columna": {
+    "flex-layout.col": {
       "children": [
         "image#electronics",
         "image#major-appliance"
