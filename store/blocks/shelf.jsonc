@@ -5,6 +5,7 @@
       "category": 1,
       "orderBy": "OrderByTopSaleDESC",
       "paginationDotsVisibility": "desktopOnly",
+      "filter": "",
       "productList": {
         "maxItems": 8,
         "itemsPerPage": 4,
