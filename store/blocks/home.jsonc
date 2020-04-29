@@ -8,8 +8,8 @@
   },
   "rich-text": {
     "props": {
-      "text": "*Hello, World!*",
-      "textPosition": "CENTER"
+      "text": "**Hello, World!**",
+      "textPosition": "RIGHT"
     }
   },
   "info-card#button-right": {
